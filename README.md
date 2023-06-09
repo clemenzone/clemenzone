@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clemenzone
 - 👀 I’m interested in any project I find interesting
-- 🌱 I’m currently learning operating systems and front-end web development
+- 🌱 I’m currently learning operating systems and back-end web development 
 - 💞️ I’m looking to collaborate on any projects mentioned above and others
 - 📫 How to reach me clemensah96@gmail.com
 
